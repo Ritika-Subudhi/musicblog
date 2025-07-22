@@ -1,0 +1,37 @@
+/* src/index.css */
+body {
+  font-family: Georgia, serif;
+  margin: 0;
+  background-color: #f8f1e7;
+  color: #2c1e10;
+}
+
+nav {
+  background-color: #8d6e63;
+  color: white;
+  padding: 1rem;
+}
+
+nav a {
+  color: white;
+  margin-right: 1rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+h1, h2 {
+  color: #4e342e;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+ul {
+  padding-left: 1rem;
+}
